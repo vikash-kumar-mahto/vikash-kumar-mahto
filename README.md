@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**vikash-kumar-mahto/vikash-kumar-mahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vikash Kumar Mahto**, a software engineer and researcher from India 🇮🇳.  
+I’m passionate about full-stack development**, AI, and  **Web3.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI-based chatbot** and **Plant Disease Detection System**
+- 🌱 I’m exploring **Blockchain, HyperSDK, and Avalanche Subnets**
+- 💬 Ask me about **C++ | Java | Solidity | Full-Stack Development**
+- ⚡ Fun fact: I love coding challenges and hackathons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+`C++` `c` `Spring` `Sprngboot` `JavaScript `  `Java` `Solidity` `Node.js` `React` `Express` `MongoDB`
+
+---
+
+### 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar1212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
+---
+
+### 📊 GitHub Stats
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### ✨ Quote
+> “Code is like humor. When you have to explain it, it’s bad.”
