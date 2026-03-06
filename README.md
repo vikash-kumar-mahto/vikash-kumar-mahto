@@ -3,7 +3,7 @@
 I'm **Vikash Kumar Mahto**, a software engineer and researcher from India 🇮🇳.  
 I’m passionate about full-stack development**, AI, and  **Web3.
 
-- 🔭 I’m currently working and Learning on **SpringBoot Project**
+- 🔭 I’m currently working and Learning  **SpringBoot Projects**
 - 🌱 I’m exploring **Blockchain, HyperSDK, and Avalanche Subnets**
 - 💬 Ask me about **C++ | Java | Full-Stack Development | java Developer**
 - ⚡ Fun fact: I love coding challenges and hackathons.
