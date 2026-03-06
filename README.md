@@ -3,13 +3,13 @@
 I'm **Vikash Kumar Mahto**, a software engineer and researcher from India 🇮🇳.  
 I’m passionate about full-stack development**, AI, and  **Web3.
 
-- 🔭 I’m currently working on **AI-based chatbot** and **Plant Disease Detection System**
+- 🔭 I’m currently working and Learning on **SpringBoot Project**
 - 🌱 I’m exploring **Blockchain, HyperSDK, and Avalanche Subnets**
-- 💬 Ask me about **C++ | Java | Solidity | Full-Stack Development**
+- 💬 Ask me about **C++ | Java | Full-Stack Development | java Developer**
 - ⚡ Fun fact: I love coding challenges and hackathons.
 
 ### 🧠 Tech Stack
-`C++` `c` `Spring` `Sprngboot` `JavaScript `  `Java` `Solidity` `Node.js` `React` `Express` `MongoDB`
+`C++` `Java` `Spring` `Sprngboot` `JavaScript ` `Solidity` `Node.js` `React` `Express` `MongoDB` `Sql`
 
 ---
 
